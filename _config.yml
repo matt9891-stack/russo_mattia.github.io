@@ -1,5 +1,20 @@
+# Config generale
 title: "Mattia Russo"
 logo: assets/img/Foto.png
 description: "MSc Data Science Student at University of Essex"
 theme: jekyll-theme-minimal
 show_downloads: false
+
+# Social links supportati dal tema minimal
+github_username: mattia-russo
+linkedin_username: mattia-russo
+
+# Contatti extra
+email: "mattia.russo@email.com"
+phone: "+393331234567"
+
+# Opzioni Kramdown per Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
