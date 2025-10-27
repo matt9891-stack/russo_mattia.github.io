@@ -2,8 +2,7 @@
 layout: default
 title: Mattia Russo
 ---
-
-![Mattia Russo](/assets/img/Foto.png){: style="display:block; margin:auto; border-radius:50%; width:150px; height:150px; object-fit:cover;" }
+![Mattia Russo](/assets/img/Foto.png)
 
 ## Hi, I'm Mattia Russo 👋
 
