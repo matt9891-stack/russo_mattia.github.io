@@ -1,7 +1,7 @@
----
 layout: default
 title: Mattia Russo
 ---
+![Mattia Russo](/asset/img/Foto.png)
 ![Mattia Russo](/asset/Foto.png)
 
 ## Hi, I'm Mattia Russo 👋
